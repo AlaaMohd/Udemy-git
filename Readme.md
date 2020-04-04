@@ -1,5 +1,5 @@
-## Udemy-Git Course
+## Udemy-Git & GitHub Course
 ### First Assignment
 
-Name: Amani Abbas
+Name: Alaa Bachir
 Note: Good Luck
